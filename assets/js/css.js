@@ -3,41 +3,42 @@ const main_video = document.querySelector('.main-video video');
 const main_video_title = document.querySelector('.main-video .title');
 const video_playlist = document.querySelector('.video-playlist .videos');
 
+
 let data = [
     {
         'id': 'a1',
-        'title': 'Introdução ao HTML',
-        'name': 'manipulate text background.mp4',
-        'duration': '2:47',
+        'title': '1ª PARTE',
+        'name': 'Vídeo 1 CSS - Leonardo.mp4',
+        'duration': '4:20',
     },
     {
         'id': 'a2',
-        'title': 'Body',
-        'name': 'build gauge with css.mp4',
+        'title': '2ª PARTE',
+        'name': 'Video 2 CSS - Leonardo.mp4',
         'duration': '2:45',
     },
     {
         'id': 'a3',
-        'title': 'Head',
+        'title': '3ª PARTE',
         'name': '3D popup card.mp4',
         'duration': '24:49',
     },
 
     {
         'id': 'a4',
-        'title': 'h1',
+        'title': '4ª PARTE',
         'name': 'customize HTML5 form elements.mp4',
         'duration': '3:59',
     },
     {
         'id': 'a5',
-        'title': 'h2',
+        'title': '5ª PARTE',
         'name': 'custom select box.mp4',
         'duration': '4:25',
     },
     {
         'id': 'a6',
-        'title': 'embed google map to contact form',
+        'title': '6ª PARTE',
         'name': 'embed google map to contact form.mp4',
         'duration': '5:33',
     },

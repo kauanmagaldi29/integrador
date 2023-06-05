@@ -21,6 +21,21 @@ body {
     align-items: center;
 }
 
+#btn {
+    background-color: #4CAF50; /* cor de fundo verde */
+    color: white; /* cor do texto branco */
+    padding: 10px 20px; /* espaçamento interno */
+    font-size: 16px; /* tamanho da fonte */
+    border: none; /* remover a borda */
+    cursor: pointer; /* alterar o cursor ao passar por cima */
+    border-radius: 4px; /* arredondar as bordas */
+  }
+  
+#btn:hover {
+    background-color: #45a049; /* cor de fundo mais escura ao passar o mouse */
+  }
+
+
 .container {
     width: 100vw;
 

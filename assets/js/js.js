@@ -10,57 +10,6 @@ let data = [
         'name': 'manipulate text background.mp4',
         'duration': '2:47',
     },
-    {
-        'id': 'a2',
-        'title': 'Body',
-        'name': 'manipulate text background.mp4',
-        'duration': '2:45',
-    },
-    {
-        'id': 'a3',
-        'title': 'Head',
-        'name': 'manipulate text background.mp4',
-        'duration': '24:49',
-    },
-
-    {
-        'id': 'a4',
-        'title': 'h1',
-        'name': 'manipulate text background.mp4',
-        'duration': '3:59',
-    },
-    {
-        'id': 'a5',
-        'title': 'h2',
-        'name': 'manipulate text background.mp4',
-        'duration': '4:25',
-    },
-    {
-        'id': 'a6',
-        'title': 'embed google map to contact form',
-        'name': 'manipulate text background.mp4',
-        'duration': '5:33',
-    },
-    {
-        'id': 'a7',
-        'title': 'password strength checker javascript web app',
-        'name': 'password strength checker javascript web app.mp4',
-        'duration': '0:29',
-    },
-
-    {
-        'id': 'a8',
-        'title': 'custom range slider',
-        'name': 'custom range slider.mp4',
-        'duration': '1:12',
-    },
-    {
-        'id': 'a9',
-        'title': 'animated shopping cart',
-        'name': 'animated shopping cart.mp4',
-        'duration': '3:38',
-    },
-
    
 
 ];
